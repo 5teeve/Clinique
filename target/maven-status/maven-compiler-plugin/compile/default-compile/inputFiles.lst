@@ -1,0 +1,10 @@
+/home/steeve/Documents/BOSS/S5/FRAMEWORK/Clinique/src/main/java/com/projet/Main.java
+/home/steeve/Documents/BOSS/S5/FRAMEWORK/Clinique/src/main/java/com/projet/config/AppConfig.java
+/home/steeve/Documents/BOSS/S5/FRAMEWORK/Clinique/src/main/java/com/projet/config/SpringContext.java
+/home/steeve/Documents/BOSS/S5/FRAMEWORK/Clinique/src/main/java/com/projet/controller/PatientController.java
+/home/steeve/Documents/BOSS/S5/FRAMEWORK/Clinique/src/main/java/com/projet/listener/AppLifecycleListener.java
+/home/steeve/Documents/BOSS/S5/FRAMEWORK/Clinique/src/main/java/com/projet/model/Patient.java
+/home/steeve/Documents/BOSS/S5/FRAMEWORK/Clinique/src/main/java/com/projet/repository/PatientRepository.java
+/home/steeve/Documents/BOSS/S5/FRAMEWORK/Clinique/src/main/java/com/projet/service/PatientService.java
+/home/steeve/Documents/BOSS/S5/FRAMEWORK/Clinique/src/main/java/com/projet/servlet/FrontServlet.java
+/home/steeve/Documents/BOSS/S5/FRAMEWORK/Clinique/src/main/java/com/projet/util/Html.java
