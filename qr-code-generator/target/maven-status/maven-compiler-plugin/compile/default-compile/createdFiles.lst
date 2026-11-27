@@ -1,0 +1,5 @@
+com/projet/qrcode/PatientApiClient.class
+com/projet/qrcode/QrCodeWriter.class
+com/projet/qrcode/PatientDto.class
+com/projet/qrcode/QrConfig.class
+com/projet/qrcode/QrCodeGenerator.class
